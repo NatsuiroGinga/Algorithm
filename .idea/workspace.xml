@@ -4,40 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52df007d-437c-4b42-a935-8a131fb9ff2d" name="Changes" comment="null">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B2029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/LanQiao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/ApproximateScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/CargoPlacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/DoorNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/GradeAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/GradeStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/IncrementSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/Jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/NumberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/PalindromeDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/SequenceEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/SerpentineFilling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/SevenSegmentCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/ShowTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/WordAnalysis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/YearString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Luogu/Luogu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Luogu/src/P1897.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/apache_tomcat_8_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_11.xml" beforeDir="false" />
+    <list default="true" id="52df007d-437c-4b42-a935-8a131fb9ff2d" name="Changes" comment="蓝桥">
+      <change afterPath="$PROJECT_DIR$/Codeforces/Codeforces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/BuyShovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/DZYLovesChessboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/IlyaGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/PresidentOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/QueueSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/SecondOrderStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/TriangularNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/WaterTheGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanQiao/src/CheckerboardPutWheat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanQiao/src/DecompositionNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanQiao/src/DecorativeBeads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanQiao/src/GuessBirthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanQiao/src/JumpingWalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LanQiao/src/SpecialSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graph/src/edu/sdau/graph/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simulate/src/edu/sdau/simulate/P1601/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simulate/src/edu/sdau/simulate/P4924/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B2029.java" beforeDir="false" afterPath="$PROJECT_DIR$/B2029.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +45,9 @@
   </component>
   <component name="GiteeDefaultAccount">
     <option name="defaultAccountId" value="49a93bb3-2da0-4eee-839d-0b734ebf5e7b" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-1.8.0_362/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,37 +95,37 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.YearString">
-    <configuration name="B2029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B2029" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CheckerboardPutWheat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckerboardPutWheat" />
+      <module name="LanQiao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessBirthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessBirthday" />
+      <module name="LanQiao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpingWalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JumpingWalls" />
+      <module name="LanQiao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Maze" />
-      <module name="LanQiao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P1897" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P1897" />
-      <module name="Luogu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SequenceEvaluation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SequenceEvaluation" />
-      <module name="LanQiao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="YearString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YearString" />
+    <configuration name="SpecialSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpecialSum" />
       <module name="LanQiao" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.YearString" />
-        <item itemvalue="Application.Maze" />
-        <item itemvalue="Application.P1897" />
-        <item itemvalue="Application.B2029" />
-        <item itemvalue="Application.SequenceEvaluation" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JumpingWalls" />
+        <item itemvalue="Application.GuessBirthday" />
+        <item itemvalue="Application.CheckerboardPutWheat" />
+        <item itemvalue="Application.SpecialSum" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +185,14 @@
       <workItem from="1678024850567" duration="1240000" />
       <workItem from="1678061016712" duration="4960000" />
       <workItem from="1678156807983" duration="3428000" />
+      <workItem from="1678175059888" duration="6222000" />
+      <workItem from="1678185278379" duration="3540000" />
+      <workItem from="1678243119536" duration="1635000" />
+      <workItem from="1678254973915" duration="5237000" />
+      <workItem from="1678273820683" duration="779000" />
+      <workItem from="1678415810258" duration="1996000" />
+      <workItem from="1678439783144" duration="5276000" />
+      <workItem from="1678452198758" duration="2311000" />
     </task>
     <task id="LOCAL-00001" summary="null">
       <created>1657595779253</created>
@@ -218,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657608808607</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="蓝桥">
+      <created>1678175109646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678175109647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +242,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="null" />
-    <option name="LAST_COMMIT_MESSAGE" value="null" />
+    <MESSAGE value="蓝桥" />
+    <option name="LAST_COMMIT_MESSAGE" value="蓝桥" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
