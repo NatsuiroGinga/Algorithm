@@ -1,6 +1,5 @@
-import java.io.BufferedInputStream;
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * <a href="https://www.luogu.com.cn/problem/P1897">
@@ -12,20 +11,7 @@ import java.util.Scanner;
  */
 public class P1897 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(new BufferedInputStream(System.in));
-        int n = scanner.nextInt();
-        int[] arr = new int[n + 5];
-        for (int i = 0; i < n; i++) {
-            arr[i] = scanner.nextInt();
-        }
-        Arrays.sort(arr);
-        int front = 0, count = 0;
-        // (2 * 6 + 5 + 1 + 1) + (6 + 5 + 1) + (6 + 5 + 1) + 4 * 4 =
-        // 19 + 12 + 12 + 16 = 59
-
-        for (int v : arr) {
-            if (v == front)
-                count++;
-        }
+        Map<Character, Integer> map = new HashMap<>();
+        map.computeIfPresent('1', (character, integer) -> integer + 1);
     }
 }

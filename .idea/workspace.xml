@@ -5,25 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52df007d-437c-4b42-a935-8a131fb9ff2d" name="Changes" comment="蓝桥">
-      <change afterPath="$PROJECT_DIR$/Codeforces/Codeforces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/BuyShovel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/DZYLovesChessboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/IlyaGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/PresidentOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/QueueSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/SecondOrderStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/TriangularNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/WaterTheGarden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/CheckerboardPutWheat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/DecompositionNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/DecorativeBeads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/GuessBirthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/JumpingWalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LanQiao/src/SpecialSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Choco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/CutRibbon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/Labyrinth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/LongestRegularBracketSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/MaximumIncrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/USBFlashDrives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/WalkingMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/AProsperousLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/BadBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/BeforeAnExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/BeforeExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/ChessTourney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/MinimumTernaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/Vitamins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/Vitamins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/C/GregAndFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/C/Jeopardy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindAllAnagramsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/Leetcode739_DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/ds/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/KthSmallestElementBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/KthSmallestElementBST.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/RottingOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/linked_list/LeetCode_1290.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/linked_list/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luogu/src/P5788.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/CalculatorConundrum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/CityGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/OpenCreditSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/OpenCreditSystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/UVA1398_Meteor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/greedy/Assemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/greedy/CommandoWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/greedy/Pie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/greedy/SpreadingTheWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/greedy/TheDragonOfLoowater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/implemention/EvenParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/implemention/Help_is_needed_for_Dexter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/uva.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B2029.java" beforeDir="false" afterPath="$PROJECT_DIR$/B2029.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B2029.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Luogu/src/P1897.java" beforeDir="false" afterPath="$PROJECT_DIR$/Luogu/src/P1897.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,50 +111,76 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/idea_workplace/Algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.3091954&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CheckerboardPutWheat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckerboardPutWheat" />
-      <module name="LanQiao" />
+  <component name="RunManager" selected="Application.FindAllAnagramsString">
+    <configuration name="Assemble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Assemble" />
+      <module name="uva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessBirthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GuessBirthday" />
-      <module name="LanQiao" />
+    <configuration name="CityGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_3.CityGame" />
+      <module name="uva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpingWalls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JumpingWalls" />
-      <module name="LanQiao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="FindAllAnagramsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAllAnagramsString" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SpecialSum" />
-      <module name="LanQiao" />
+    <configuration name="Pie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.Pie" />
+      <module name="uva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_3.Subsequence" />
+      <module name="uva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.JumpingWalls" />
-        <item itemvalue="Application.GuessBirthday" />
-        <item itemvalue="Application.CheckerboardPutWheat" />
-        <item itemvalue="Application.SpecialSum" />
+        <item itemvalue="Application.FindAllAnagramsString" />
+        <item itemvalue="Application.Assemble" />
+        <item itemvalue="Application.Pie" />
+        <item itemvalue="Application.CityGame" />
+        <item itemvalue="Application.Subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +247,45 @@
       <workItem from="1678415810258" duration="1996000" />
       <workItem from="1678439783144" duration="5276000" />
       <workItem from="1678452198758" duration="2311000" />
+      <workItem from="1678579850484" duration="859000" />
+      <workItem from="1678606298857" duration="5539000" />
+      <workItem from="1678628613921" duration="2069000" />
+      <workItem from="1678704636729" duration="1060000" />
+      <workItem from="1678708596747" duration="2085000" />
+      <workItem from="1678784713859" duration="598000" />
+      <workItem from="1678845933332" duration="1416000" />
+      <workItem from="1678861175558" duration="266000" />
+      <workItem from="1678864249915" duration="556000" />
+      <workItem from="1678936965569" duration="42000" />
+      <workItem from="1678937039446" duration="52000" />
+      <workItem from="1679018312957" duration="630000" />
+      <workItem from="1679022420767" duration="1167000" />
+      <workItem from="1679041277217" duration="1953000" />
+      <workItem from="1679043264061" duration="1528000" />
+      <workItem from="1679452487179" duration="1001000" />
+      <workItem from="1679481811479" duration="3326000" />
+      <workItem from="1679487704942" duration="827000" />
+      <workItem from="1679551999610" duration="10269000" />
+      <workItem from="1679621144870" duration="1431000" />
+      <workItem from="1679624171129" duration="1262000" />
+      <workItem from="1679707476785" duration="989000" />
+      <workItem from="1679708488055" duration="329000" />
+      <workItem from="1679709843518" duration="2477000" />
+      <workItem from="1679745674179" duration="454000" />
+      <workItem from="1679822794894" duration="344000" />
+      <workItem from="1679879955289" duration="5190000" />
+      <workItem from="1679897257649" duration="593000" />
+      <workItem from="1679898162092" duration="130000" />
+      <workItem from="1679963086624" duration="4752000" />
+      <workItem from="1679984578950" duration="1902000" />
+      <workItem from="1679986512590" duration="1125000" />
+      <workItem from="1680069622554" duration="2257000" />
+      <workItem from="1680303536853" duration="420000" />
+      <workItem from="1680303977036" duration="215000" />
+      <workItem from="1680827119150" duration="8018000" />
+      <workItem from="1680845407314" duration="1182000" />
+      <workItem from="1680864128477" duration="8258000" />
+      <workItem from="1680966576925" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="null">
       <created>1657595779253</created>
@@ -222,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678175109647</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="蓝桥">
+      <created>1678579883064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678579883064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

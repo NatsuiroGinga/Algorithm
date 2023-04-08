@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codeforces/Codeforces.iml" filepath="$PROJECT_DIR$/Codeforces/Codeforces.iml" />
       <module fileurl="file://$PROJECT_DIR$/LanQiao/LanQiao.iml" filepath="$PROJECT_DIR$/LanQiao/LanQiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luogu/Luogu.iml" filepath="$PROJECT_DIR$/Luogu/Luogu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uva/uva.iml" filepath="$PROJECT_DIR$/uva/uva.iml" />
     </modules>
   </component>
 </project>
