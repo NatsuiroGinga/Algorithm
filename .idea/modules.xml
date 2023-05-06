@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Luogu/Luogu.iml" filepath="$PROJECT_DIR$/Luogu/Luogu.iml" />
       <module fileurl="file://$PROJECT_DIR$/uva/uva.iml" filepath="$PROJECT_DIR$/uva/uva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webank/webank.iml" filepath="$PROJECT_DIR$/webank/webank.iml" />
     </modules>
   </component>
 </project>

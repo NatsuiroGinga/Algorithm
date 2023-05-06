@@ -5,53 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52df007d-437c-4b42-a935-8a131fb9ff2d" name="Changes" comment="蓝桥">
-      <change afterPath="$PROJECT_DIR$/Choco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/CutRibbon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/Labyrinth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/LongestRegularBracketSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/MaximumIncrease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/USBFlashDrives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/A/WalkingMaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/AProsperousLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/BadBoy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/BeforeAnExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/BeforeExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/ChessTourney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/MinimumTernaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/Vitamins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/B/Vitamins.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/C/GregAndFriends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codeforces/src/C/Jeopardy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindAllAnagramsString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/Leetcode739_DailyTemperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/ds/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/KthSmallestElementBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/KthSmallestElementBST.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/RottingOranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/level_2/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/linked_list/LeetCode_1290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/linked_list/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Luogu/src/P5788.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/CalculatorConundrum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/CityGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/OpenCreditSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/OpenCreditSystem.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/chapter_3/UVA1398_Meteor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/greedy/Assemble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/greedy/CommandoWar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/greedy/Pie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/greedy/SpreadingTheWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/greedy/TheDragonOfLoowater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/implemention/EvenParity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/src/implemention/Help_is_needed_for_Dexter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uva/uva.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/LeetCode59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/graph/Sword105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/graph/Sword106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/graph/Sword107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/graph/Sword108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/graph/Sword109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode1005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode45.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode53.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode55.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode738.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode860.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/hash/LeetCode15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/hash/LeetCode242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode347.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/tree/LeetCode144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/tree/LeetCode145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/tree/LeetCode701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/two_pointers/LeetCode209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/two_pointers/LeetCode977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/tree/UVA122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/tree/UVA679.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webank/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webank/src/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webank/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webank/webank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/B2029.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Luogu/src/P1897.java" beforeDir="false" afterPath="$PROJECT_DIR$/Luogu/src/P1897.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/level_2/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/level_2/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +107,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
@@ -117,7 +115,7 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.3091954&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
@@ -125,10 +123,10 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindAllAnagramsString">
-    <configuration name="Assemble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.Assemble" />
-      <module name="uva" />
+  <component name="RunManager" selected="Application.LeetCode738">
+    <configuration name="LeetCode122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode122" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="greedy.*" />
@@ -139,29 +137,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CityGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.CityGame" />
-      <module name="uva" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindAllAnagramsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindAllAnagramsString" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.Pie" />
-      <module name="uva" />
+    <configuration name="LeetCode406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode406" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="greedy.*" />
@@ -172,12 +150,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.Subsequence" />
-      <module name="uva" />
+    <configuration name="LeetCode45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode45" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_3.*" />
+          <option name="PATTERN" value="greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode55" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode738" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindAllAnagramsString" />
-        <item itemvalue="Application.Assemble" />
-        <item itemvalue="Application.Pie" />
-        <item itemvalue="Application.CityGame" />
-        <item itemvalue="Application.Subsequence" />
+        <item itemvalue="Application.LeetCode738" />
+        <item itemvalue="Application.LeetCode406" />
+        <item itemvalue="Application.LeetCode45" />
+        <item itemvalue="Application.LeetCode55" />
+        <item itemvalue="Application.LeetCode122" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +289,40 @@
       <workItem from="1680827119150" duration="8018000" />
       <workItem from="1680845407314" duration="1182000" />
       <workItem from="1680864128477" duration="8258000" />
-      <workItem from="1680966576925" duration="1170000" />
+      <workItem from="1680966576925" duration="1334000" />
+      <workItem from="1681297198680" duration="2798000" />
+      <workItem from="1682149672094" duration="744000" />
+      <workItem from="1682249932867" duration="2000" />
+      <workItem from="1682305204834" duration="1252000" />
+      <workItem from="1682316468523" duration="1174000" />
+      <workItem from="1682404706404" duration="226000" />
+      <workItem from="1682428294044" duration="4389000" />
+      <workItem from="1682475686844" duration="771000" />
+      <workItem from="1682558348578" duration="481000" />
+      <workItem from="1682559504876" duration="602000" />
+      <workItem from="1682562326822" duration="1030000" />
+      <workItem from="1682598835402" duration="6655000" />
+      <workItem from="1682686919250" duration="73000" />
+      <workItem from="1682691627883" duration="544000" />
+      <workItem from="1682734615405" duration="585000" />
+      <workItem from="1682735227667" duration="17000" />
+      <workItem from="1682735265445" duration="54000" />
+      <workItem from="1682735616652" duration="3230000" />
+      <workItem from="1682749763955" duration="86000" />
+      <workItem from="1682899416200" duration="4120000" />
+      <workItem from="1682903762826" duration="2169000" />
+      <workItem from="1682906587683" duration="1888000" />
+      <workItem from="1682909938666" duration="1000" />
+      <workItem from="1682910188268" duration="1036000" />
+      <workItem from="1682954794158" duration="555000" />
+      <workItem from="1682992065666" duration="5128000" />
+      <workItem from="1683037395129" duration="231000" />
+      <workItem from="1683114848947" duration="580000" />
+      <workItem from="1683245207989" duration="106000" />
+      <workItem from="1683250170672" duration="204000" />
+      <workItem from="1683250596759" duration="2239000" />
+      <workItem from="1683330653689" duration="826000" />
+      <workItem from="1683338070253" duration="5398000" />
     </task>
     <task id="LOCAL-00001" summary="null">
       <created>1657595779253</created>
@@ -322,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678579883064</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="蓝桥">
+      <created>1680967882642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680967882642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
