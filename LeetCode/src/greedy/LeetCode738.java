@@ -24,7 +24,6 @@ public class LeetCode738 {
                 flag = i;
             }
         }
-
         Arrays.fill(arr, flag, arr.length, '9');
 
         return Integer.parseInt(new String(arr));
