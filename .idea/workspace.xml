@@ -4,28 +4,172 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52df007d-437c-4b42-a935-8a131fb9ff2d" name="Changes" comment="greedy">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode1035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode1143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode300.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode392.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode516.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode583.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/LeetCode72.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode738.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode968.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode968.md" afterDir="false" />
+    <list default="true" id="52df007d-437c-4b42-a935-8a131fb9ff2d" name="Changes" comment="dp">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/codeton_5/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/codeton_5/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/edu_round_151/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/edu_round_151/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/edu_round_151/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/round_885/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/round_885/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeforces/src/round_885/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[101]Symmetric Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[102]Binary Tree Level Order Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[1047]Remove All Adjacent Duplicates In String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[104]Maximum Depth of Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[106]Construct Binary Tree from Inorder and Postorder Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[110]Balanced Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[111]Minimum Depth of Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[112]Path Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[11]Container With Most Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[142]Linked List Cycle II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[144]Binary Tree Preorder Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[145]Binary Tree Postorder Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[14]Longest Common Prefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[150]Evaluate Reverse Polish Notation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[151]Reverse Words in a String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[15]3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[18]4Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[19]Remove Nth Node From End of List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[1]Two Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[202]Happy Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[203]Remove Linked List Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[206]Reverse Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[209]Minimum Size Subarray Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[20]Valid Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[222]Count Complete Tree Nodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[225]Implement Stack using Queues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[226]Invert Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[239]Sliding Window Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[242]Valid Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[24]Swap Nodes in Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[257]Binary Tree Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[27]Remove Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[28]Find the Index of the First Occurrence in a String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[344]Reverse String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[347]Top K Frequent Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[349]Intersection of Two Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[454]4Sum II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[4]Median of Two Sorted Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[513]Find Bottom Left Tree Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[541]Reverse String II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[59]Spiral Matrix II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[704]Binary Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[707]Design Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[7]Reverse Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[94]Binary Tree Inorder Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/[977]Squares of a Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[101]Symmetric Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[102]Binary Tree Level Order Traversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[1047]Remove All Adjacent Duplicates In String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[104]Maximum Depth of Binary Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[106]Construct Binary Tree from Inorder and Postorder Traversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[110]Balanced Binary Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[111]Minimum Depth of Binary Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[112]Path Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[11]Container With Most Water.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[142]Linked List Cycle II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[144]Binary Tree Preorder Traversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[145]Binary Tree Postorder Traversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[14]Longest Common Prefix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[150]Evaluate Reverse Polish Notation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[151]Reverse Words in a String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[15]3Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[18]4Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[19]Remove Nth Node From End of List.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[1]Two Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[202]Happy Number.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[203]Remove Linked List Elements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[206]Reverse Linked List.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[209]Minimum Size Subarray Sum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[20]Valid Parentheses.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[222]Count Complete Tree Nodes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[225]Implement Stack using Queues.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[226]Invert Binary Tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[239]Sliding Window Maximum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[242]Valid Anagram.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[24]Swap Nodes in Pairs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[257]Binary Tree Paths.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[27]Remove Element.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[28]Find the Index of the First Occurrence in a String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[344]Reverse String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[347]Top K Frequent Elements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[349]Intersection of Two Arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[454]4Sum II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[4]Median of Two Sorted Arrays.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[513]Find Bottom Left Tree Value.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[541]Reverse String II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[59]Spiral Matrix II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[704]Binary Search.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[707]Design Linked List.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[7]Reverse Integer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[94]Binary Tree Inorder Traversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/content/[977]Squares of a Sorted Array.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/solution/binary-search.lcv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/solution/sliding-window-maximum.lcv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/solution/spiral-matrix-ii.lcv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[101]Symmetric Tree1006535536.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[101]Symmetric Tree914887516.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[101]Symmetric Tree914900376.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[101]Symmetric Tree914900455.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[101]Symmetric Tree914900496.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[101]Symmetric Tree914901048.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[101]Symmetric Tree938815147.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[102]Binary Tree Level Order Traversal909239955.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[102]Binary Tree Level Order Traversal914879690.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[102]Binary Tree Level Order Traversal914879745.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[145]Binary Tree Postorder Traversal914270927.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[151]Reverse Words in a String941343013.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[15]3Sum922748638.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[15]3Sum940367424.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[18]4Sum940376060.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[18]4Sum999820033.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[203]Remove Linked List Elements912403913.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[203]Remove Linked List Elements940856592.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[209]Minimum Size Subarray Sum941355359.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[226]Invert Binary Tree918404133.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[226]Invert Binary Tree938811713.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[226]Invert Binary Tree938811959.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[242]Valid Anagram940344978.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[257]Binary Tree Paths939257368.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[27]Remove Element941350139.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[349]Intersection of Two Arrays940353165.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[454]4Sum II940359086.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[541]Reverse String II941334613.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[977]Squares of a Sorted Array909379733.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/editor/en/doc/submission/[977]Squares of a Sorted Array941352280.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/leetcode_115.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/leetcode_72.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/dp/tcp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode232.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue_and_stack/LeetCode239.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luogu/src/P1040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luogu/src/P1101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luogu/src/P1162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luogu/src/P1443.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luogu/src/P1605.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meituan/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meituan/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meituan/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meituan/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uva/src/search/UVA725.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode738.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/greedy/LeetCode738.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/level_2/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/level_2/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/LeetCode59.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/LeetCode59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/ds/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/ds/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +188,7 @@
     <option name="defaultAccountId" value="49a93bb3-2da0-4eee-839d-0b734ebf5e7b" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.jdks/corretto-1.8.0_362/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/editor/en/[704]Binary Search.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,6 +204,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2BpFY3q70SCqpRhHS0EliSBN63y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -81,6 +228,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.ide.FileNotInSourceRootChecker.no.check&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-1.8&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/idea_workplace/Algorithm&quot;,
@@ -91,66 +239,47 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.3091954&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;cn.yiiguxing.plugin.translate&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;redis&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LeetCode406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode406" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.P1443">
+    <configuration name="P1040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1040" />
+      <module name="Luogu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode45" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="P1101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1101" />
+      <module name="Luogu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode738" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="P1162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1162" />
+      <module name="Luogu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode968" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greedy.LeetCode968" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="P1443" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1443" />
+      <module name="Luogu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Algorithm" />
+    <configuration name="P1605" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1605" />
+      <module name="Luogu" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LeetCode968" />
-        <item itemvalue="Application.LeetCode738" />
-        <item itemvalue="Application.LeetCode406" />
-        <item itemvalue="Application.LeetCode45" />
+        <item itemvalue="Application.P1443" />
+        <item itemvalue="Application.P1162" />
+        <item itemvalue="Application.P1040" />
+        <item itemvalue="Application.P1101" />
+        <item itemvalue="Application.P1605" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +424,48 @@
       <workItem from="1683505863697" duration="1684000" />
       <workItem from="1683508252089" duration="2725000" />
       <workItem from="1683526394948" duration="849000" />
-      <workItem from="1683528477927" duration="910000" />
+      <workItem from="1683528477927" duration="1104000" />
+      <workItem from="1683591550196" duration="1077000" />
+      <workItem from="1683593019730" duration="1814000" />
+      <workItem from="1683596673848" duration="4622000" />
+      <workItem from="1683678354910" duration="667000" />
+      <workItem from="1683732266124" duration="544000" />
+      <workItem from="1683891961746" duration="372000" />
+      <workItem from="1684045987371" duration="195000" />
+      <workItem from="1684572098093" duration="1000" />
+      <workItem from="1685588922042" duration="53000" />
+      <workItem from="1685700590220" duration="106000" />
+      <workItem from="1689294926403" duration="117000" />
+      <workItem from="1689295062197" duration="7882000" />
+      <workItem from="1689334376817" duration="3277000" />
+      <workItem from="1689380947979" duration="9015000" />
+      <workItem from="1689810486402" duration="10213000" />
+      <workItem from="1689898606350" duration="51000" />
+      <workItem from="1689898675206" duration="8130000" />
+      <workItem from="1689907109371" duration="2308000" />
+      <workItem from="1689983055012" duration="2355000" />
+      <workItem from="1689987427814" duration="1502000" />
+      <workItem from="1689990158423" duration="989000" />
+      <workItem from="1690271740408" duration="22000" />
+      <workItem from="1690340007467" duration="1516000" />
+      <workItem from="1690416527819" duration="329000" />
+      <workItem from="1690416878809" duration="237000" />
+      <workItem from="1690417128860" duration="3072000" />
+      <workItem from="1690420318131" duration="8335000" />
+      <workItem from="1690502475702" duration="9876000" />
+      <workItem from="1690590202544" duration="10602000" />
+      <workItem from="1691021432687" duration="11000" />
+      <workItem from="1691022548347" duration="8821000" />
+      <workItem from="1691193958311" duration="9856000" />
+      <workItem from="1691205581824" duration="1716000" />
+      <workItem from="1691324189861" duration="824000" />
+      <workItem from="1691326229178" duration="1872000" />
+      <workItem from="1691367956661" duration="7497000" />
+      <workItem from="1691456372931" duration="1511000" />
+      <workItem from="1691460758104" duration="80000" />
+      <workItem from="1691724834636" duration="638000" />
+      <workItem from="1691805832804" duration="8370000" />
+      <workItem from="1691971922190" duration="13376000" />
     </task>
     <task id="LOCAL-00001" summary="null">
       <created>1657595779253</created>
@@ -346,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683352653085</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="dp">
+      <created>1683529432111</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683529432111</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +545,8 @@
     <MESSAGE value="null" />
     <MESSAGE value="蓝桥" />
     <MESSAGE value="greedy" />
-    <option name="LAST_COMMIT_MESSAGE" value="greedy" />
+    <MESSAGE value="dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="dp" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

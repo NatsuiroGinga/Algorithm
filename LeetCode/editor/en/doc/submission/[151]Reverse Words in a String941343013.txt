@@ -1,0 +1,45 @@
+func reverseWords(s string) string {
+	b := []byte(s)
+
+	slow, fast := 0, 0
+	for ; fast < len(b); fast++ {
+		if b[fast] != ' ' {
+			if slow != 0 {
+				b[slow] = ' '
+				slow++
+			}
+
+			for fast < len(b) && b[fast] != ' ' {
+				b[slow] = b[fast]
+				fast++
+				slow++
+			}
+		}
+	}
+	b = b[:slow]
+
+	reverse(b, 0, len(b)-1)
+
+	count := 0
+	i := 0
+	// hello world
+	for ; i < len(b); i++ {
+		if b[i] != ' ' {
+			count++
+		} else {
+			reverse(b, i-count, i-1)
+			count = 0
+		}
+	}
+	reverse(b, i-count, i-1)
+
+	return string(b)
+}
+
+func reverse(s []byte, low, high int) {
+	for ; low < high; low, high = low+1, high-1 {
+		s[low], s[high] = s[high], s[low]
+	}
+}
+//runtime:0 ms
+//memory:2.8 MB

@@ -41,3 +41,6 @@ public class LeetCode59 {
         return ans;
     }
 }
+
+record A(int a, String b) {
+}

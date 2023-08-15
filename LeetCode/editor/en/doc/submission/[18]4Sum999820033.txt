@@ -1,0 +1,45 @@
+class Solution {
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
+
+        for (int i = 0; i < nums.length - 3; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+
+            for (int j = i + 1; j < nums.length - 2; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) continue;
+
+                int left = j + 1, right = nums.length - 1;
+                while (left < right) {
+                    long sum = nums[left] + nums[right] + nums[j] + nums[i];
+                    long total = target;
+                    System.out.println(sum);
+
+                    if (sum == total) {
+                        ans.add(List.of(nums[i], nums[j], nums[left], nums[right]));
+                        for (; left + 1 < right && nums[left] == nums[left + 1]; left++) ;
+                        for (; right - 1 > left && nums[right] == nums[right - 1]; right--) ;
+                        left++;
+                        right--;
+                    } else if (sum < total) {
+                        left++;
+                    } else {
+                        right--;
+                    }
+                }
+            }
+        }
+
+        return ans;
+    }
+}
+
+//runtime:N/A
+//memory:N/A
+//total_testcases:
+//total_correct:
+//input_formatted:
+//expected_output:
+//code_output:
+//runtime_error:null
+//last_testcase:[-472,-466,-463,-445,-443,-429,-428,-427,-383,-372,-345,-344,-318,-314,-302,-299,-285,-283,-267,-236,-235,-232,-230,-225,-207,-205,-185,-184,-155,-151,-144,-128,-127,-124,-110,-110,-101,-95,-93,-63,-43,-25,-25,2,4,19,20,28,31,31,40,75,79,92,113,114,119,157,157,161,161,181,191,198,209,215,228,229,235,237,243,254,254,260,274,274,292,303,304,316,320,324,336,368,378,383,389,402,406,446,462,496] 2044

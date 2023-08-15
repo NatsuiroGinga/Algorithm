@@ -1,0 +1,30 @@
+/**
+ * Definition for a binary tree node.
+ * type TreeNode struct {
+ *     Val int
+ *     Left *TreeNode
+ *     Right *TreeNode
+ * }
+ */
+
+func isSymmetric(root *TreeNode) bool {
+	if root == nil {
+		return true
+	}
+	return IsMirror(root.Left, root.Right)
+}
+
+func IsMirror(left, right *TreeNode) bool {
+	if left == nil && right == nil {
+		return true
+	}
+
+	if left == nil || right == nil {
+		return false
+	}
+
+	return left.Val == right.Val && IsMirror(left.Left, right.Right) && IsMirror(left.Right, right.Left)
+}
+
+//runtime:5 ms
+//memory:2.9 MB
